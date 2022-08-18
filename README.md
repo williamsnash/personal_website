@@ -1,6 +1,6 @@
 # About
 Dev location for my personal website
-
+---
 ### Django Commands
 Start a project: `django-admin startproject PROJECT_NAME_HERE`\
 Run Locally: `python manage.py runserver`\
